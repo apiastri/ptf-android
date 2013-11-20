@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PoliDeportivo</string>
+    <string name="action_settings">Settings</string>
+    <string name="codigo_deporte">codigo deporte</string>
+    <string name="nombre_deporte">nombre deporte</string>
+    <string name="imagen_deporte">imagen del deporte</string>
+
+</resources>
